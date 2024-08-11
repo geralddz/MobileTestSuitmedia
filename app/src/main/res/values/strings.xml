@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mobile Test Suitmedia</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="check">CHECK</string>
+    <string name="photo">photo</string>
+    <string name="next">NEXT</string>
+    <string name="back">back</string>
+    <string name="welcome">welcome</string>
+    <string name="tv_name">John Doe</string>
+    <string name="selected_user">Selected User Name</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="image">image</string>
+    <string name="email">Email</string>
+    <string name="retry">RETRY</string>
+    <string name="empty">data is empty</string>
+</resources>
